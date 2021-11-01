@@ -1,5 +1,5 @@
 .card {
-  justify-content: start;
+  /* justify-content: start; */
 
   box-sizing: border-box;
   float: left;
@@ -45,4 +45,11 @@
 .card_button:hover {
   background-color: darkkhaki;
   size: 25px;
+}
+
+.navbox{
+    width:auto;
+    margin: 20px;
+    background-color: blueviolet;
+    height: 30px;
 }

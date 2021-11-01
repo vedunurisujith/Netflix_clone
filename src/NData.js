@@ -3,7 +3,9 @@ const NDatas = [
     title: "Dark",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJxGrf8qASNp1nTNrgrvVIwvpDyNtluRWZyA&usqp=CAU",
     genre: "thriller",
+    //link: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJxGrf8qASNp1nTNrgrvVIwvpDyNtluRWZyA&usqp=CAU",
     link: "https://www.netflix.com/in/title/80100172",
+    //link: 'https://www.google.com'
   },
   {
     title: "Stranger Things",
