@@ -1,0 +1,48 @@
+.card {
+  justify-content: start;
+
+  box-sizing: border-box;
+  float: left;
+  margin: 2%;
+  box-shadow: black;
+
+  border-width: 10px;
+  background-color: azure;
+}
+.card_img {
+  border-radius: 20px;
+  width: max-content;
+  flex-direction: row;
+}
+.card_title {
+  text-align: center;
+  color: black;
+  font-size: large;
+  font-size: 20px;
+  font-weight: 200px;
+  font-style: inherit;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.card_button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 20px;
+
+  border-radius: 20px;
+  box-sizing: border-box;
+  box-shadow: cadetblue;
+  width: fit-content;
+
+  border: none;
+}
+.card_button:hover {
+  background-color: darkkhaki;
+  size: 25px;
+}
